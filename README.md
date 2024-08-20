@@ -8,7 +8,7 @@ Currently exploring Human-Computer Interaction. Over the past year, I’ve been 
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [rizkirahawarin@gmail.com](mailto:rizkirahawarin@gmail.com)
-* 🧠  I'm learning Swift
+* 🧠  I'm currently learning Swift
 * 🤝  I'm open to collaborating on exciting projects in Web Design, UI/UX, and iOS development
 
 ### Skills
